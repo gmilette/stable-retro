@@ -105,7 +105,7 @@ def main():
         verbose=1,
     )
     model.learn(
-        total_timesteps=100_000_000,
+        total_timesteps=100_00,
         log_interval=1,
     )
 

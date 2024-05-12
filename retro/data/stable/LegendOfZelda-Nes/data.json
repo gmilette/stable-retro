@@ -1,0 +1,56 @@
+{
+  "info": {
+    "damage": {
+      "address": 1648,
+      "type": "=u2"
+    },
+    "enemy2x": {
+      "address": 114,
+      "type": "=u1"
+    },
+    "enemy3x": {
+      "address": 115,
+      "type": "=u1"
+    },
+    "enemy4x": {
+      "address": 116,
+      "type": "=u1"
+    },
+    "gameMode": {
+      "address": 18,
+      "type": "=u1"
+    },
+    "heart": {
+      "address": 1648,
+      "type": "=u2"
+    },
+    "heartc": {
+      "address": 1647,
+      "type": "=u1"
+    },
+    "killed": {
+      "address": 1322,
+      "type": "=u1"
+    },
+    "linkx": {
+      "address": 112,
+      "type": "=u1"
+    },
+    "linky": {
+      "address": 132,
+      "type": "=u1"
+    },
+    "mapLoc": {
+      "address": 235,
+      "type": "=u1"
+    },
+    "ring": {
+      "address": 1634,
+      "type": "=u2"
+    },
+    "sword": {
+      "address": 1623,
+      "type": "=u2"
+    }
+  }
+}

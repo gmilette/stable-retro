@@ -1,0 +1,18 @@
+{
+  "crop": [
+    24,
+    24,
+    192,
+    192
+  ],
+  "done": {
+    "script": "lua:zelda_done"
+  },
+  "reward": {
+    "script": "lua:zelda_reward"
+  },
+  "scripts": [
+    "script.lua"
+  ]
+}
+

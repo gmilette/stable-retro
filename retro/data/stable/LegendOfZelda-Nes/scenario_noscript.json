@@ -1,0 +1,20 @@
+{
+  "crop": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "done": {
+    "variables": {
+      "gameMode": {
+        "op": "not-equal",
+        "reference": 5
+      },
+      "mapLoc": {
+        "op": "not-equal",
+        "reference": 103
+      }
+    }
+  }
+}
